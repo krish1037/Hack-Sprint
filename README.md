@@ -1,2 +1,2 @@
 # Hack-Sprint
-We are making a tourism  website for Hack Sprint
+I had made the project on the home satay website
